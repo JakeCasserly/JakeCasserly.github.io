@@ -1,8 +1,5 @@
-
 const CACHE = "pwabuilder-page";
-
 const offlineFallbackPage = "ToDo-replace-this-name.html";
-
 self.addEventListener("install", function (event) {
   console.log("[PWA Builder] Install Event processing");
 
