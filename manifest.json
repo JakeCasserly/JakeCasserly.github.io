@@ -9,6 +9,7 @@
     "description" : "This app will be used to make a screensaver for your phone lock screen which will allow paramedics to access important medical information about the patient if they are unconscious in an emergency and needed to be treated. ",
     "orientation" : "portrait",
     "background_color" : "transparent",
+    "theme_color" : "blue",
     "related_applications" : "",
     "prefer_related_applications" : "false",
     "generated" : "true",
